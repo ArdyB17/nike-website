@@ -1,0 +1,18 @@
+its on index.css(padding-b for responsive)
+
+"padding" sama juga untuk responsive
+
+habistu kita tambahin folder section namabhin dh tu file" nya
+
+kenapa kita harus make "import" untuk gambar nya ?,bukannya lebih gampang di img src nya aja langsung ?
+
+pro tip:
+first taruh dulu semua representasi nya kayak 3 gambar nya itu baru nanti styling 
+
+
+di popular products:
+- itu bisa dikasi col 2 gitu? button "buy" nya taruh disamping tulisan nya(mungkin buat bundar habistu kasi logo)
+- navbar nya dibikin sticky,habistu di atas nya tu dikasi tanda keranjang.ntr ada fitur beli wkwkwk
+
+
+ini yg index.js di component itu kayaknya bisa make json aja deh bukan js,coba ntr ku tanya ai 
